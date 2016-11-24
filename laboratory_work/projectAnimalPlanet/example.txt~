@@ -1,0 +1,9 @@
+Predator Mammal LivesInForest Big bear
+NotPredator Mammal Cattle NotHorned Wooled sheep
+NotPredator Mammal Cattle Horned Big bull 
+Predator Mammal CatFamily HuntsWithPeers Big lion
+Predator Mammal CatFamily HuntsAlone Small leopard
+Predator Mammal CatFamily HuntsAlone Big Tiger
+NotPredator Mammal Cattle NotHorned NotWooled Big horse
+NotPredator Mammal Cattle Horned Small Goat 
+Predator Mammal Primate Big Gorilla 
